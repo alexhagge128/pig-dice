@@ -1,4 +1,4 @@
-# Pig Latin
+# Pig Game
 
 
 ## Description
